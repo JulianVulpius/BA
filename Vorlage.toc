@@ -1,0 +1,18 @@
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{VII}{section*.2}%
+\contentsline {chapter}{Tabellenverzeichnis}{IX}{section*.5}%
+\contentsline {chapter}{Abkürzungsverzeichnis}{IX}{section*.5}%
+\contentsline {chapter}{Formelverzeichnis}{X}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.8}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.9}%
+\contentsline {section}{\numberline {1.2}Aufgabenstellung}{2}{section.10}%
+\contentsline {section}{\numberline {1.3}Struktur der Arbeit}{3}{section.11}%
+\contentsline {chapter}{\numberline {2}Stand der Forschung}{5}{chapter.12}%
+\contentsline {chapter}{\numberline {3}Theoretische und technische Grundlagen}{9}{chapter.13}%
+\contentsline {chapter}{\numberline {4}Methodische Entwicklung und Versuchsaufbau}{13}{chapter.14}%
+\contentsline {chapter}{\numberline {5}Auswertung und Evaluierung}{14}{chapter.15}%
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{15}{chapter.16}%
+\contentsline {chapter}{Anhang}{16}{section*.17}%
+\contentsline {chapter}{\nonumberline Quellenverzeichnis}{16}{chapter*.18}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
