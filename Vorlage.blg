@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Vorlage.aux
+The style file: natdin.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Literatur/Literatur.bib
+Warning--entry type for "Justin.2024" isn't style-file defined
+--line 1 of file Literatur/Literatur.bib
+Warning--entry type for "Banzon.2023" isn't style-file defined
+--line 9 of file Literatur/Literatur.bib
+Warning--entry type for "Scaringella.2006" isn't style-file defined
+--line 17 of file Literatur/Literatur.bib
+Warning--entry type for "Muchitsch.2023" isn't style-file defined
+--line 25 of file Literatur/Literatur.bib
+Warning--entry type for "Nault.2021" isn't style-file defined
+--line 33 of file Literatur/Literatur.bib
+Warning--entry type for "Rentfrow.2011" isn't style-file defined
+--line 41 of file Literatur/Literatur.bib
+Warning--entry type for "Rentfrow.2012" isn't style-file defined
+--line 49 of file Literatur/Literatur.bib
+Warning--entry type for "Parada‐Cabaleiro.2020" isn't style-file defined
+--line 57 of file Literatur/Literatur.bib
+Warning--entry type for "Mehr.2019" isn't style-file defined
+--line 65 of file Literatur/Literatur.bib
+Warning--entry type for "Nave.2018" isn't style-file defined
+--line 73 of file Literatur/Literatur.bib
+Warning--entry type for "Walle.2025" isn't style-file defined
+--line 81 of file Literatur/Literatur.bib
+Warning--entry type for "Martínez-Sáez.2024" isn't style-file defined
+--line 89 of file Literatur/Literatur.bib
+Warning--entry type for "Faber.2023" isn't style-file defined
+--line 97 of file Literatur/Literatur.bib
+Warning--entry type for "Lata.2021" isn't style-file defined
+--line 105 of file Literatur/Literatur.bib
+Warning--entry type for "Trahan.2018" isn't style-file defined
+--line 113 of file Literatur/Literatur.bib
+Warning--entry type for "Krause.2021" isn't style-file defined
+--line 121 of file Literatur/Literatur.bib
+Warning--entry type for "Garrido.2018" isn't style-file defined
+--line 129 of file Literatur/Literatur.bib
+Warning--entry type for "Ramírez.2018" isn't style-file defined
+--line 137 of file Literatur/Literatur.bib
+Warning--entry type for "Mahmood.2022" isn't style-file defined
+--line 145 of file Literatur/Literatur.bib
+Warning--entry type for "Kimmatkar.2021" isn't style-file defined
+--line 153 of file Literatur/Literatur.bib
+Warning--entry type for "Marzuki.2013" isn't style-file defined
+--line 161 of file Literatur/Literatur.bib
+Warning--entry type for "Costa.2024" isn't style-file defined
+--line 169 of file Literatur/Literatur.bib
+Warning--entry type for "Newson.2019" isn't style-file defined
+--line 225 of file Literatur/Literatur.bib
+Warning--entry type for "Lee.2024" isn't style-file defined
+--line 233 of file Literatur/Literatur.bib
+Warning--entry type for "Hasan.2021" isn't style-file defined
+--line 241 of file Literatur/Literatur.bib
+Warning--entry type for "Wen.2020" isn't style-file defined
+--line 249 of file Literatur/Literatur.bib
+Warning--entry type for "Chang.2025" isn't style-file defined
+--line 257 of file Literatur/Literatur.bib
+Warning--entry type for "Kim.2025" isn't style-file defined
+--line 265 of file Literatur/Literatur.bib
+You've used 34 entries,
+            4728 wiz_defined-function locations,
+            1101 strings with 14470 characters,
+and the built_in function-call counts, 28027 in all, are:
+= -- 2837
+> -- 1132
+< -- 1218
++ -- 1494
+- -- 426
+* -- 2113
+:= -- 5245
+add.period$ -- 12
+call.type$ -- 34
+change.case$ -- 228
+chr.to.int$ -- 34
+cite$ -- 34
+duplicate$ -- 566
+empty$ -- 1109
+format.name$ -- 680
+if$ -- 4801
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 145
+newline$ -- 171
+num.names$ -- 136
+pop$ -- 353
+preamble$ -- 1
+purify$ -- 296
+quote$ -- 0
+skip$ -- 1629
+stack$ -- 0
+substring$ -- 1953
+swap$ -- 171
+text.length$ -- 131
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 448
+warning$ -- 0
+while$ -- 233
+width$ -- 0
+write$ -- 395
+(There were 28 warnings)
